@@ -1,5 +1,5 @@
 # iTravel
-A Mini Vacation Planner: a cloud-native application that allows users to search for hotels, restaurants, attractions, and real-time flights to help plan their vacation. This application consists of 5 lambda functions. 4 access the TripAdvisor API, and 1 accesses the AviationStack API. 
+A cloud-native application that allows users to search for hotels, restaurants, attractions, and real-time flights to help plan their vacation. This application consists of 5 lambda functions. 4 access the TripAdvisor API, and 1 accesses the AviationStack API. 
 
 # Features:
 - search-hotels: based on a user-specified location, print 10 hotels in that location
